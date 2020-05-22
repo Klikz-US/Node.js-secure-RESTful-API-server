@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Nodejs REST API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Murrell Johnson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klikz-US/Node.js-secure-RESTful-API-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Klikz-US/Node.js-secure-RESTful-API-server/issues"
+  },
+  "homepage": "https://github.com/Klikz-US/Node.js-secure-RESTful-API-server#readme"
+}
